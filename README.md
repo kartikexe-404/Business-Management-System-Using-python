@@ -38,17 +38,3 @@ A simple Business Management System developed using basic Python. This project h
 
 The objective of this project is to understand and implement basic Python programming concepts by creating a practical business management application.
 
-## Limitations
-- Data is stored temporarily in lists.
-- Data is lost when the program exits.
-- Profit calculation does not include product purchase costs.
-
-## Future Improvements
-- Database integration
-- GUI interface
-- Customer management
-- Invoice generation
-- Advanced sales reports
-
-## License
-This project is created for educational purposes.
